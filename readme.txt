@@ -2,14 +2,22 @@
 #**  MINISHELL  **#
 #*****************#
 
-https://github.com/Hqndler/42-minishell
+*****************
+**   GENERAL   **
+*****************
 
 - No need to to follow the POSIX norm.
 	 Posix norm :  Portable Operating System Interface
 
-*************
-*  PARSING **
-*************
+*****************
+** USEFUL LINK **
+*****************
+
+- https://github.com/Hqndler/42-minishell
+
+*****************
+**   PARSING   **
+*****************
 
 - REDIRECTION :
 	<, >, <<, >>
@@ -25,9 +33,9 @@ https://github.com/Hqndler/42-minishell
 
 
 
-*************
-**  EXEC   **
-*************
+*****************
+**     EXEC    **
+*****************
 
 - to search :
 	execve()
